@@ -36,7 +36,7 @@ En el caso de n=50 insertion sort presenta un mejor rendimiento
 ![WhatsApp Image 2024-01-31 at 18 16 17_a7f30f63](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-donirving13/assets/125591158/0fd96e22-388d-4d8c-94ff-91be7a0c8be1)
 ![WhatsApp Image 2024-01-31 at 18 16 40_0ac712b8](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-donirving13/assets/125591158/2688b48a-a4c5-40bb-9be7-a26010a90888)
 
-###n=5000
+### n=5000
 ![WhatsApp Image 2024-01-31 at 18 10 59_cd029a58](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-donirving13/assets/125591158/f9708aaa-170d-4adc-b396-5d8b98adecbd)
 
 ![WhatsApp Image 2024-01-31 at 18 11 12_9698459b](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-donirving13/assets/125591158/adda279a-4c38-46c7-8bef-1a4ea53a08ef)
