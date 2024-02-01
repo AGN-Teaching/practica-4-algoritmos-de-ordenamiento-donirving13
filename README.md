@@ -19,6 +19,7 @@ En el caso de n=10, se observa en la tabla que Selection Sort presenta un rendim
 
 
 ### n=50
+![Uploading WhatsApp Image 2024-01-31 at 18.09.07_7a162a0f.jpg…]()
 
 ![WhatsApp Image 2024-01-31 at 18 10 39_9f608515](https://github.com/AGN-Teaching/practica-4-algoritmos-de-ordenamiento-donirving13/assets/125591158/513a84fc-2290-4e59-9913-601ee86f4df8)
 En el caso de n=50 insertion sort presenta un mejor rendimiento 
